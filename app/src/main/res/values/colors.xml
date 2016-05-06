@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="svg_bg">#007fff</color>
+
+    <color name="svg_line_fillColor">#ff6a9ebb</color>
+    <color name="svg_wave_color">#ff6a9ebb</color>
+    <color name="btn_bg">#33000000</color>
+    <color name="btn_text">#000000</color>
+
+    <color name="android">#ABCD05</color>
+    <color name="apple">#A7B2B8</color>
+</resources>

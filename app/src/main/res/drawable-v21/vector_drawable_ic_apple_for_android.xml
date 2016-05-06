@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_apple_for_android">
+
+    <target
+        android:name="v"
+        android:animation="@animator/apple_to_android" />
+
+</animated-vector>

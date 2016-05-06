@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="together">
+    <objectAnimator
+        android:duration="1500"
+        android:propertyName="strokeColor"
+        android:valueFrom="@color/apple"
+        android:valueTo="@color/android" />
+    <objectAnimator
+        android:duration="1500"
+        android:propertyName="pathData"
+        android:valueFrom="@string/svg_apple"
+        android:valueTo="@string/svg_android"
+        android:valueType="pathType" />
+</set>
