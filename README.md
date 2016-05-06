@@ -1,0 +1,2 @@
+# SvgAnimation
+Svg动画的demo，涉及自定义View实现SVG动画和Android5.0官方原生的SVG动画
